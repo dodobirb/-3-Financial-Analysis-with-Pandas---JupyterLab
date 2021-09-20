@@ -1,5 +1,5 @@
 
-# Project Title
+# Module 3 Challenge: Financial Analysis with Pandas
 
 Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
@@ -8,7 +8,8 @@ Just after the title, introduce your project by describing attractively what the
 # GitHub Repository (public)
 
 Module_3_Challenge
-UNCC FTBC Financial Analysis with Pandas: data collection, preparation, visualization, &amp; analysis
+
+UNCC FTBC Financial Analysis with Pandas: data collection, preparation, visualization, & analysis
 
 ---
 
